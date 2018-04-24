@@ -10,7 +10,7 @@ You must fill some informations on `_config.yml` to customize your site.
 
 ```
 name: Aditya
-bio: 'A Man who travels the world eating noodles'
+bio: 'Finding a purpose'
 picture: 'assets/images/profile.jpg'
 ...
 
